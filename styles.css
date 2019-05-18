@@ -1,0 +1,52 @@
+body {
+   color: #324768;
+   font-family: 'Abel', sans-serif;
+   margin: 0;
+}    
+h1 {
+   text-transform: uppercase;
+}                               
+h2{
+   font-family: 'Nova Flat';
+   text-transform: uppercase;
+
+}
+#mainSection {
+   height:100vh;
+   background-color: rgb(218, 227, 240);
+   text-align: center; 
+   padding-top: 10%;
+}                        
+#gif{
+     box-shadow: 6px 6px 10px black;
+      border-radius: 25px;
+}
+.header{
+   background-color: black;
+   padding-left: 5%;
+   padding-right: 5%;
+   box-shadow: 6px 6px 10px grey;
+}
+#secondsection {
+   text-align: center;
+   padding-top: 10%;
+   padding-bottom: 10%;
+   
+}                     
+   #thirdsection{
+   background-color: rgb(37, 36, 36);
+   text-align: center;
+   padding-top: 5%;
+   padding-bottom: 5%;
+}
+ol{
+   list-style-position: inside;
+}
+a{ 
+   text-decoration: none;
+}
+a:hover{
+   font-size: 10em;
+   transform: scale(10,10);
+   color: #324768;
+}
